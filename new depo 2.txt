@@ -1,0 +1,6 @@
+new depo
+clone to terminal
+make a file
+git add-a
+git commit
+git clone
